@@ -1,0 +1,7 @@
+{
+  "name": "I'm Ranthula - Portfolio",
+  "description": "A premium graphic design portfolio and client portal application. Features a stunning dark-mode UI, portfolio showcase, automated order placement system with unique tracking codes, and real-time order status updates.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
